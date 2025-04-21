@@ -153,7 +153,7 @@
     },
     {
         "Q": "What is the attire of the third student who shakes hand with the teacher",
-        "A": "The third student is wearing a black hoodie with a smiley fac/emoji with whit/brown pants.",
+        "A": "The third student is wearing a black hoodie with a smiley face/emoji with white/brown pants.",
         "dimension_name": "Continuity and Object Instance Count",
         "video_path": "continuity_and_object_instance_count/185.mp4",
         "unique_id": "6fd14cf1-f170-4abd-a02e-0b90d52d831a",
@@ -473,7 +473,7 @@
     },
     {
         "Q": "Describe the unique attire of the two women who enter the elevator?",
-        "A": "There is only one woman and she is wearing a luminous yello/green vest.",
+        "A": "There is only one woman and she is wearing a luminous yellow/green vest.",
         "dimension_name": "Continuity and Object Instance Count",
         "video_path": "continuity_and_object_instance_count/189.mp4",
         "unique_id": "8c2edb06-5f1c-4a8b-8c3b-27739c4445d8",
@@ -977,7 +977,7 @@
     },
     {
         "Q": "What is the man holding when he jumps over the vacuum cleaner?",
-        "A": "The man is holding a dres/cloth in his arms.",
+        "A": "The man is holding a dress/cloth in his arms.",
         "dimension_name": "Continuity and Object Instance Count",
         "video_path": "continuity_and_object_instance_count/197.mp4",
         "unique_id": "a1e33d95-587e-4771-856c-7da12346b8d9",
@@ -1009,7 +1009,7 @@
     },
     {
         "Q": "What is each person doing in the video?",
-        "A": "A woman vacuums a hallway carpet. A man in a blue jacket playfully jumps over the vacuum, holding a dres/cloth. He runs back and exits the frame, leaving the woman to continue vacuuming.",
+        "A": "A woman vacuums a hallway carpet. A man in a blue jacket playfully jumps over the vacuum, holding a dress/cloth. He runs back and exits the frame, leaving the woman to continue vacuuming.",
         "dimension_name": "Continuity and Object Instance Count",
         "video_path": "continuity_and_object_instance_count/197.mp4",
         "unique_id": "03b58d4d-1417-4aff-9588-11854f75408f",
@@ -1067,65 +1067,65 @@
         "Q": "How many cars are initially visible that are moving forward in front of the camera before it enters the tunnel?",
         "A": "Three cars are initially visible.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "7565d902-03af-4ecd-a564-c59cd7d92185",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "List the colors of the cars that are seen ahead of the camera at the beginning which are moving forward before entering into the tunnel.",
         "A": "The color of the cars are blue, black and silver.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "4058b522-f43a-4f2c-a806-08f05e642d4e",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "Is the tunnel illuminated, and if so, what color are the lights?",
         "A": "Yes, the tunnel is illuminated with dim orange lighting.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "6bbe4050-81fc-4bad-928f-71a5919eeb8b",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "How many unique cars initially moving in the forward direction are seen to be in front of the camera in the tunnel in the start?",
         "A": "Two cars the initially seen in front of the camera in the tunnel. Black car and the silver car.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "3dddb49c-11e9-4b3e-9630-53171ff8b505",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "After exiting the tunnel, does the view shift to an indoor or outdoor scene?",
         "A": "Yes, the view shifts to an outdoor scene under the open cloudy sky.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "e5329612-bd1f-4d84-9478-98eaa1b19023",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "How many times the car with the camera enters the tunnel?",
         "A": "The car with the camera enters the tunnel only once.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "cf8f008a-b74c-4092-b1ea-fcc02dc8c6ac",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "Are there any motorbikes visible alongside with cars at any moment on the road?",
         "A": "No, there are no motorbikes present on the road throughout the video. Only cars are shown to be driving in the video.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "606b2c53-2b6c-49ed-b909-455689c43adf",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "Is there any depiction of cars crossing a bridge in the video?",
         "A": "No, the cars are seen to be crossing a tunnel in the video, not a bridge.",
         "dimension_name": "Continuity and Object Instance Count",
-        "video_path": "199.mov",
+        "video_path": "continuity_and_object_instance_count/199.mov",
         "unique_id": "f8306f90-2f34-43f3-8a7e-5cb4e263ca67",
-        "subset": "continuity_and_object_instance_count.json"
+        "subset": "continuity_and_object_instance_count"
     },
     {
         "Q": "How many times does the man appear in the frame during the video?",
@@ -1435,7 +1435,7 @@
         "Q": "Describe the directional movement of the apple during the interaction. Was it clockwise, anticlockwise, or did it exhibit both movements?",
         "A": "The apple was spun in an anticlockwise direction, exclusively showing anticlockwise movement.",
         "dimension_name": "Fine-grained action understanding",
-        "video_path": "fine_grained_action_understandin/81.webm",
+        "video_path": "fine_grained_action_understanding/81.webm",
         "unique_id": "d333b433-68ef-49db-bcf2-ffe18f465c39",
         "subset": "fine_grained_action_understanding"
     },
@@ -1633,7 +1633,7 @@
     },
     {
         "Q": "Following the removal of the mug, what color object is revealed?",
-        "A": "A gree/yellow object is revealed post the mug's removal.",
+        "A": "A green/yellow object is revealed post the mug's removal.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "b940fc7d-7546-493b-942d-3224c323aa9f",
@@ -1649,7 +1649,7 @@
     },
     {
         "Q": "Is there any action involving an object being placed or moved to reveal another object? If so, describe the initially hidden object.",
-        "A": "Yes, an object (a glass mug) is moved to reveal another object, specifically a gree/yellow tennis ball.",
+        "A": "Yes, an object (a glass mug) is moved to reveal another object, specifically a green/yellow tennis ball.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "a19e87a9-d385-4368-8486-85ba498d46d2",
@@ -1657,7 +1657,7 @@
     },
     {
         "Q": "Does the video showcase an action leading to a change in the visibility of any items? If affirmative, name the item that becomes visible.",
-        "A": "Yes, the action leads to a gree/yellow tennis ball becoming visible.",
+        "A": "Yes, the action leads to a green/yellow tennis ball becoming visible.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "02d333ca-1a48-4449-957f-435c245bb8b8",
@@ -1681,7 +1681,7 @@
     },
     {
         "Q": "In the video, please describe the drinking activity shown by the person after picking up the glass mug.",
-        "A": "The video has focused solely on picking up the mug to reveal a gree/yellow ball behind it, with no other action depiction.",
+        "A": "The video has focused solely on picking up the mug to reveal a green/yellow ball behind it, with no other action depiction.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "6932a2ad-bd55-4502-bed7-05313ed04208",
@@ -1697,7 +1697,7 @@
     },
     {
         "Q": "In the video, what is the color of the box that becomes visible after the mug is moved?",
-        "A": "The object discovered in the video was a tennis ball, not a box. The color of the tennis ball is gree/yellow.",
+        "A": "The object discovered in the video was a tennis ball, not a box. The color of the tennis ball is green/yellow.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "865a2427-d276-446c-92d3-5d80aaa71bfb",
@@ -1721,7 +1721,7 @@
     },
     {
         "Q": "What is happening in the video?",
-        "A": "The video shows a person using their hand to pick up a glass mug from the desk, revealing a gree/yellow ball initially hidden behind it.",
+        "A": "The video shows a person using their hand to pick up a glass mug from the desk, revealing a green/yellow ball initially hidden behind it.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/83.webm",
         "unique_id": "09fd0fdf-30d4-49b6-bcbb-07e30570678b",
@@ -1857,7 +1857,7 @@
     },
     {
         "Q": "Please describe the scene in the video where a phone is being connected to the charging cable.",
-        "A": "The video only shows the action of plugging a USB charging cable into a charging por/adapter. There is no phone visible in the scene.",
+        "A": "The video only shows the action of plugging a USB charging cable into a charging port/adapter. There is no phone visible in the scene.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/85.webm",
         "unique_id": "a3a6c6c5-983a-4b5e-a502-f2773ec0f7f1",
@@ -2281,7 +2281,7 @@
     },
     {
         "Q": "What object is being interacted with by the person in the video?",
-        "A": "A glas/cup. The video showcases a clear interaction involving a glas/cup.",
+        "A": "A glass/cup. The video showcases a clear interaction involving a glass/cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "a08a5c58-42c3-49c5-b4f6-5a2f9a903186",
@@ -2289,14 +2289,14 @@
     },
     {
         "Q": "What is the person doing in the video?",
-        "A": "The hand reaches into the glas/cup and then retrieves a coin from the glass.",
+        "A": "The hand reaches into the glass/cup and then retrieves a coin from the glass.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "d068616f-7f41-4f08-b4ae-b1ae9965777d",
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "What specific item is removed from the glas/cup by the person's hand?",
+        "Q": "What specific item is removed from the glass/cup by the person's hand?",
         "A": "A coin.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
@@ -2305,7 +2305,7 @@
     },
     {
         "Q": "Throughout the video, how many actions are performed by the person?",
-        "A": "One primary action, which is taking a coin from the glas/cup.",
+        "A": "One primary action, which is taking a coin from the glass/cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "e4bb52a8-0972-4a07-9c6d-a1501d36cb1d",
@@ -2320,8 +2320,8 @@
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "In the video, what other actions did the person perform that were unrelated to the glas/cup and the coin?",
-        "A": "The video only shows the action of a person taking a coin from a glas/cup, and there are no other actions performed by the person that are unrelated to this activity.",
+        "Q": "In the video, what other actions did the person perform that were unrelated to the glass/cup and the coin?",
+        "A": "The video only shows the action of a person taking a coin from a glass/cup, and there are no other actions performed by the person that are unrelated to this activity.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "d2e89696-667e-427b-bab3-5afeeddd59ce",
@@ -2329,15 +2329,15 @@
     },
     {
         "Q": "In the video, please describe how the cup is filled with water.",
-        "A": "The video only shows a person taking a coin out from a glas/cup, and there is no action of pouring water or any other liquid into the cup.",
+        "A": "The video only shows a person taking a coin out from a glass/cup, and there is no action of pouring water or any other liquid into the cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "c0fc7e6b-e52d-475e-b095-966166128c2a",
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "Is there a scene where a cat jumps onto the shelf to inspect the glas/cup?",
-        "A": "No, the video only focuses on the action of a person's hands taking a coin from the glas/cup, with no depiction of a cat or any other animal.",
+        "Q": "Is there a scene where a cat jumps onto the shelf to inspect the glass/cup?",
+        "A": "No, the video only focuses on the action of a person's hands taking a coin from the glass/cup, with no depiction of a cat or any other animal.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "c7ac75cf-2e60-4f4f-a770-7ee9c3ba0d08",
@@ -2360,8 +2360,8 @@
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "In the video, why does the glas/cup get knocked over towards the end?",
-        "A": "The video only shows the action of taking a coin from a glas/cup, and there is no indication of the glas/cup being knocked over.",
+        "Q": "In the video, why does the glass/cup get knocked over towards the end?",
+        "A": "The video only shows the action of taking a coin from a glass/cup, and there is no indication of the glass/cup being knocked over.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "e6f78c5d-1b81-4f78-8111-acab1cf8c9d9",
@@ -2369,14 +2369,14 @@
     },
     {
         "Q": "Is the video set outdoors, possibly in a garden or a park?",
-        "A": "No, the action takes place with the glas/cup lying on a shelf, indicating an indoor setting.",
+        "A": "No, the action takes place with the glass/cup lying on a shelf, indicating an indoor setting.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "d7d3749a-e99a-49b3-857e-1bc7a289d544",
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "How many distinct coins are being taken out from the glas/cup in the video?",
+        "Q": "How many distinct coins are being taken out from the glass/cup in the video?",
         "A": "Only a single coin is taken out, implying the action involves a single coin.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
@@ -2384,16 +2384,16 @@
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "Do the hands placing the coin initially into the glas/cup also feature in the video?",
-        "A": "No, the video starts with the glas/cup already on the shelf and later shows a coin being taken out, with no action of placing the coin inside shown in the video.",
+        "Q": "Do the hands placing the coin initially into the glass/cup also feature in the video?",
+        "A": "No, the video starts with the glass/cup already on the shelf and later shows a coin being taken out, with no action of placing the coin inside shown in the video.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "a1054958-bd83-41d4-8eba-00d0cddb6596",
         "subset": "fine_grained_action_understanding"
     },
     {
-        "Q": "Is water being poured into the glas/cup in the video?",
-        "A": "No, the video focuses on the action of a coin being taken out of a glas/cup.",
+        "Q": "Is water being poured into the glass/cup in the video?",
+        "A": "No, the video focuses on the action of a coin being taken out of a glass/cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "e7b8b124-d2b8-4c98-8e90-0a1600185e71",
@@ -2401,7 +2401,7 @@
     },
     {
         "Q": "What is happening in the video?",
-        "A": "The video shows a person's hand which is taking out a coin from a white glas/cup.",
+        "A": "The video shows a person's hand which is taking out a coin from a white glass/cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "2edba87a-6138-40da-8680-465d09c51378",
@@ -2409,7 +2409,7 @@
     },
     {
         "Q": "Describe the water drinking activity in the video?",
-        "A": "There is no water drinking activity shown in the video. The video shows a person's hand used to take out a coin from a white glas/cup.",
+        "A": "There is no water drinking activity shown in the video. The video shows a person's hand used to take out a coin from a white glass/cup.",
         "dimension_name": "Fine-grained action understanding",
         "video_path": "fine_grained_action_understanding/90.webm",
         "unique_id": "d9356ec4-6649-47c6-82de-556e0cd2de00",
@@ -4905,7 +4905,7 @@
     },
     {
         "Q": "Following the initial action of pushing the person back onto the sofa, what subsequent action does the baby take for the person on the sofa?",
-        "A": "The baby fetches a small sea/stool, places it beside the sofa, and sits on it, leaning against the person as a support.",
+        "A": "The baby fetches a small seat/stool, places it beside the sofa, and sits on it, leaning against the person as a support.",
         "dimension_name": "Interpretation of social context",
         "video_path": "interpretation_of_social_context/35.mp4",
         "unique_id": "5695ab9a-4177-4863-820f-8995cab08acc",
@@ -4993,7 +4993,7 @@
     },
     {
         "Q": "Did the baby rearrange the furniture in the room to create a safer environment?",
-        "A": "No, the baby didn't rearrange furniture for safety; it fetched a small sea/stool for itself to sit near the person on the sofa to prevent him from falling.",
+        "A": "No, the baby didn't rearrange furniture for safety; it fetched a small seat/stool for itself to sit near the person on the sofa to prevent him from falling.",
         "dimension_name": "Interpretation of social context",
         "video_path": "interpretation_of_social_context/35.mp4",
         "unique_id": "2d0901d9-bd53-41d5-8fb5-c092912d53a1",
@@ -5121,7 +5121,7 @@
     },
     {
         "Q": "Does the person use the falling snow to create a large sculpture that impresses the crowd?",
-        "A": "No, the individual playfully pretends to draw a DJ musi/mixer system on a table and enjoys the imaginary music, not creating a large snow sculpture.",
+        "A": "No, the individual playfully pretends to draw a DJ music/mixer system on a table and enjoys the imaginary music, not creating a large snow sculpture.",
         "dimension_name": "Interpretation of social context",
         "video_path": "interpretation_of_social_context/36.mp4",
         "unique_id": "b890f260-0792-4d19-9460-995a776b65af",
@@ -5360,7 +5360,7 @@
         "subset": "interpretation_of_social_context"
     },
     {
-        "Q": "Does the person shown to be supportin/balancing the cat by holding it from head at any point during the dance?",
+        "Q": "Does the person shown to be supporting/balancing the cat by holding it from head at any point during the dance?",
         "A": "No, the person is shown as supporting the cat by its front legs, not balancing it on their head.",
         "dimension_name": "Interpretation of social context",
         "video_path": "interpretation_of_social_context/38.mp4",
@@ -5401,7 +5401,7 @@
     },
     {
         "Q": "Considering the actions of the chimpanzee, what does this suggest about its level of intelligence or training?",
-        "A": "The actions suggest a high level of intelligence an/or extensive training. Driving requires understanding and operating controls in a specific sequence, indicating cognitive abilities above what is typically expected from animals, even those known for high intelligence like chimpanzees.",
+        "A": "The actions suggest a high level of intelligence and/or extensive training. Driving requires understanding and operating controls in a specific sequence, indicating cognitive abilities above what is typically expected from animals, even those known for high intelligence like chimpanzees.",
         "dimension_name": "Interpretation of social context",
         "video_path": "interpretation_of_social_context/39.mp4",
         "unique_id": "3bbf2476-3562-4713-82b0-711cafaec029",
@@ -5665,7 +5665,7 @@
     },
     {
         "Q": "Is the workout routine taking place in a traditional gym setting?",
-        "A": "No, the workout routine is taking place in a roo/home, not a traditional gym.",
+        "A": "No, the workout routine is taking place in a room/home, not a traditional gym.",
         "dimension_name": "Interpretation of visual context",
         "video_path": "interpretation_of_visual_context/164.avi",
         "unique_id": "c766e4fa-47b4-4e59-ad61-103a20e861c3",
@@ -6281,7 +6281,7 @@
     },
     {
         "Q": "What kind of ice skates is the sportsman wearing during the stunts?",
-        "A": "The sportsman is not wearing ice skates in the video; he is performing stunts in a basketball cour/stadium.",
+        "A": "The sportsman is not wearing ice skates in the video; he is performing stunts in a basketball court/stadium.",
         "dimension_name": "Interpretation of visual context",
         "video_path": "interpretation_of_visual_context/170.mp4",
         "unique_id": "4296e541-484e-42e7-96f0-e26ba3843c1e",
@@ -6784,7 +6784,7 @@
         "subset": "interpretation_of_visual_context"
     },
     {
-        "Q": "In which direction or orientation does the woman walk/leans relative to the camera before the surprising change in her outfit?",
+        "Q": "In which direction or orientation does the woman walks/leans relative to the camera before the surprising change in her outfit?",
         "A": "The woman steps backward to lean on the wall before the surprising change in her outfit.",
         "dimension_name": "Interpretation of visual context",
         "video_path": "interpretation_of_visual_context/175.mp4",
@@ -8009,7 +8009,7 @@
     },
     {
         "Q": "Describe the sequence of main actions performed by the individuals in the video.",
-        "A": "First, a person uses a cell phone while sitting on the stairs. Then, another person enters, pat/interact with the sitting person, and walks up the stairs.",
+        "A": "First, a person uses a cell phone while sitting on the stairs. Then, another person enters, pats/interact with the sitting person, and walks up the stairs.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/62.mp4",
         "unique_id": "06d8f98c-cad4-4d9c-9ab1-b0e0c89adca1",
@@ -8057,7 +8057,7 @@
     },
     {
         "Q": "What activity do both persons in the room participate in?",
-        "A": "The activities performed by the two people in the room are described as: one person sitting on the bed and sneezing, and the other placing a foldable chair and picking up an objec/vacuum cleaner.",
+        "A": "The activities performed by the two people in the room are described as: one person sitting on the bed and sneezing, and the other placing a foldable chair and picking up an object/vacuum cleaner.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/63.mp4",
         "unique_id": "2363d494-2841-40d5-8335-181b2b003ca4",
@@ -8929,7 +8929,7 @@
     },
     {
         "Q": "What color shirt is the person putting his shoes in the background wearing?",
-        "A": "The person who is putting on their shoes in the background is wearing a blac/dark-green shirt.",
+        "A": "The person who is putting on their shoes in the background is wearing a black/dark-green shirt.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/70.mp4",
         "unique_id": "bc03dcd3-323e-40f5-a61b-5259fdbb9cd2",
@@ -9041,7 +9041,7 @@
     },
     {
         "Q": "Describe the clothing of the person involved in the activities.",
-        "A": "They are wearing a green shirt and trouser/pants.",
+        "A": "They are wearing a green shirt and trousers/pants.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/71.mp4",
         "unique_id": "5a328cb9-5035-43de-9381-8fe97480f9a5",
@@ -9585,7 +9585,7 @@
     },
     {
         "Q": "What are the colors of the outfits worn by the first and second person respectively?",
-        "A": "The first person wears a pin/white shirt and brown pants, while the second person wears a dark-gree/black shirt and pants.",
+        "A": "The first person wears a pink/white shirt and brown pants, while the second person wears a dark-green/black shirt and pants.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/75.mp4",
         "unique_id": "e7e61a5e-2c25-4f04-bb4c-f1d7b946a279",
@@ -9897,7 +9897,7 @@
     },
     {
         "Q": "What sequence of actions are performed by the person in the video?",
-        "A": "The video shows a person getting himself ready by putting on shoes, a red jacket, making hair and checking their appearance in a mirror before taking a selfie/ checking their appearance with their phone.",
+        "A": "The video shows a person getting himself ready by putting on shoes, a red jacket, making hair and checking their appearance in a mirror before taking a selfie / checking their appearance with their phone.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/78.mp4",
         "unique_id": "0c93b633-7699-44e5-8070-644797b726ef",
@@ -9929,7 +9929,7 @@
     },
     {
         "Q": "Did the person look into a hand mirror before taking the selfie?",
-        "A": "No, the the person looked at themselves in a doo/wall mounted mirror, not a hand mirror.",
+        "A": "No, the the person looked at themselves in a door/wall mounted mirror, not a hand mirror.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/78.mp4",
         "unique_id": "79bd17bb-844b-48e0-b4a9-c1dcbdb21132",
@@ -10129,7 +10129,7 @@
     },
     {
         "Q": "What is the person ascending the stairs carrying?",
-        "A": "The person ascending the staircase is holding a glas/cup.",
+        "A": "The person ascending the staircase is holding a glass/cup.",
         "dimension_name": "Multiple actions in a single video",
         "video_path": "multiple_actions_in_a_single_video/80.mp4",
         "unique_id": "5b478208-a5ac-4006-9127-f165a05ebd0d",
@@ -11657,7 +11657,7 @@
     },
     {
         "Q": "What is happening in the video, explain in detail?",
-        "A": "The video portrays two persons standing in a kitchen surrounded by shelves stocked with metallic utensils. Both persons are wearing pin/orange-colored shirts and are positioned against the walls, facing each other. One person, holding a mirror frame, is seen laughing and adjusting their hair while looking into the mirror. Simultaneously, the second person is busy in reading and interacting with a blue book held in both hands, their attention directed towards the individual using the mirror.",
+        "A": "The video portrays two persons standing in a kitchen surrounded by shelves stocked with metallic utensils. Both persons are wearing pink/orange-colored shirts and are positioned against the walls, facing each other. One person, holding a mirror frame, is seen laughing and adjusting their hair while looking into the mirror. Simultaneously, the second person is busy in reading and interacting with a blue book held in both hands, their attention directed towards the individual using the mirror.",
         "dimension_name": "Non-existent actions with non-existent scene depictions",
         "video_path": "non_existent_actions_with_non_existent_scene_depictions/4.mp4",
         "unique_id": "4c10b7a4-9e6d-4e1e-a13d-f9759daee240",
@@ -11993,7 +11993,7 @@
     },
     {
         "Q": "Is the person seen eating anything in the video?",
-        "A": "No, the person is not seen eating anything in the video. He is holding a sandwic/bread while sitting on the sofa, but do not eat it.",
+        "A": "No, the person is not seen eating anything in the video. He is holding a sandwich/bread while sitting on the sofa, but do not eat it.",
         "dimension_name": "Non-existent actions with non-existent scene depictions",
         "video_path": "non_existent_actions_with_non_existent_scene_depictions/11.mp4",
         "unique_id": "78193644-1ef0-4f00-ad3d-2ca4f0494874",
@@ -12001,7 +12001,7 @@
     },
     {
         "Q": "Describe what is the person doing with the mobile while sitting on the sofa in the video?",
-        "A": "There is no depiction of using a mobile phone by the person in the video. The person is seen to be holding a sandwic/bread, not a mobile phone.",
+        "A": "There is no depiction of using a mobile phone by the person in the video. The person is seen to be holding a sandwich/bread, not a mobile phone.",
         "dimension_name": "Non-existent actions with non-existent scene depictions",
         "video_path": "non_existent_actions_with_non_existent_scene_depictions/11.mp4",
         "unique_id": "0c04d10b-1f74-47e0-b7b2-1eaea3589fcb",
@@ -12033,7 +12033,7 @@
     },
     {
         "Q": "What is happening in the video?",
-        "A": "The video shows a person who is sitting on a sofa in a room. He is holding a piece of bread or sandwich and is seen to be laughing. He does not eat or take any bite from the sandwic/bread throughout the video.",
+        "A": "The video shows a person who is sitting on a sofa in a room. He is holding a piece of bread or sandwich and is seen to be laughing. He does not eat or take any bite from the sandwich/bread throughout the video.",
         "dimension_name": "Non-existent actions with non-existent scene depictions",
         "video_path": "non_existent_actions_with_non_existent_scene_depictions/11.mp4",
         "unique_id": "dc766883-da0f-4de2-a4ef-25cab6723c70",
@@ -13969,7 +13969,7 @@
     },
     {
         "Q": "What is the primary action being performed in the video?",
-        "A": "The video primarily focuses on the action of squeezin/twisting a wet towel to drain water.",
+        "A": "The video primarily focuses on the action of squeezing/twisting a wet towel to drain water.",
         "dimension_name": "Partial actions",
         "video_path": "partial_actions/140.webm",
         "unique_id": "a03ab410-f873-49fc-b2a9-1ef1f77a9f4d",
@@ -14233,7 +14233,7 @@
     },
     {
         "Q": "What is the direction of the movement of the flower in the video in relation to the camera?",
-        "A": "The flower is being moved awa/ backwards from the camera as the video progresses.",
+        "A": "The flower is being moved away/ backwards from the camera as the video progresses.",
         "dimension_name": "Time order understanding",
         "video_path": "time_order_understanding/205.webm",
         "unique_id": "139bc90d-547c-4ec8-b264-42459444cb8a",
@@ -14897,7 +14897,7 @@
     },
     {
         "Q": "Identify the sequence of the main action involving the ballpoint pen from start to finish.",
-        "A": "The sequence of the main action starts with the pen being held, followed by it being dropped, and concludes with it landing and remaining on the floo/desk.",
+        "A": "The sequence of the main action starts with the pen being held, followed by it being dropped, and concludes with it landing and remaining on the floor/desk.",
         "dimension_name": "Time order understanding",
         "video_path": "time_order_understanding/216.webm",
         "unique_id": "56a7ee68-1b28-4328-90d7-701e45146042",
@@ -17137,7 +17137,7 @@
     },
     {
         "Q": "Why was the greeting between the two men awkward and distant?",
-        "A": "The greeting was not awkward nor distant. Instead it was friendl/causal, involving a handshake followed by a warm hug.",
+        "A": "The greeting was not awkward nor distant. Instead it was friendly/causal, involving a handshake followed by a warm hug.",
         "dimension_name": "Understanding of emotional context",
         "video_path": "understanding_emotional_context/158.mp4",
         "unique_id": "95c40d29-80f6-4d4d-8e97-2e3de7c7a0af",
@@ -17769,7 +17769,7 @@
     },
     {
         "Q": "In the video, is the motorbike navigating on the asphalt road, or is it venturing through alternative landscapes?",
-        "A": "No, the motorbike is not riding on a standard asphalt road. Instead, it is navigating directly on the se/waters, which presents an unusual and unexpected surface for such a vehicle to traverse.",
+        "A": "No, the motorbike is not riding on a standard asphalt road. Instead, it is navigating directly on the sea/waters, which presents an unusual and unexpected surface for such a vehicle to traverse.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/102.mp4",
         "unique_id": "74f0117e-c1f7-4590-8877-b6b11554b858",
@@ -17864,7 +17864,7 @@
         "subset": "unusual_and_physically_anomalous_activities"
     },
     {
-        "Q": "What typical dance routines/ steps are performed by the robots in the video?",
+        "Q": "What typical dance routines / steps are performed by the robots in the video?",
         "A": "The robots in the video are not seen performing typical dance routines or steps. Instead, they are depicted mimicking human actions such as wearing hats, holding objects, and even firing a gun, showcasing their surprising capability to imitate human behaviors using machinery.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/103.mp4",
@@ -18001,7 +18001,7 @@
     },
     {
         "Q": "What color are the wheels that are attached to the black car?",
-        "A": "The wheels attached to the black car are whit/silver and rectangular. This is peculiar as wheels are normally round.",
+        "A": "The wheels attached to the black car are white/silver and rectangular. This is peculiar as wheels are normally round.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/105.mp4",
         "unique_id": "67ad036e-6bde-4588-80cc-56ca67e6467e",
@@ -18041,7 +18041,7 @@
     },
     {
         "Q": "What is unusual in the video?",
-        "A": "The unusual aspect in the video is the use of rectangula/square wheels for a car.",
+        "A": "The unusual aspect in the video is the use of rectangular/square wheels for a car.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/105.mp4",
         "unique_id": "1d1b5df9-f69e-41c4-b7a4-44305f457d0b",
@@ -18089,7 +18089,7 @@
     },
     {
         "Q": "Did the person start their water-walking act by jumping from a high platform into the water or he started from a dock like place?",
-        "A": "The person started from the dock/ small-platform, indicating they began at the edge of the water, not from a high platform.",
+        "A": "The person started from the dock / small-platform, indicating they began at the edge of the water, not from a high platform.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/106.mp4",
         "unique_id": "7abc0c86-30a5-49b3-aea7-43e92045df8d",
@@ -18417,7 +18417,7 @@
     },
     {
         "Q": "Are all professionals wearing the same color shirt while climbing the building?",
-        "A": "No, three of the persons are wearing a white shirt while one person is wearing a purpl/black shirt.",
+        "A": "No, three of the persons are wearing a white shirt while one person is wearing a purple/black shirt.",
         "dimension_name": "Unusual and Physically Anomalous activities",
         "video_path": "unusual_and_physically_anomalous_activities/110.mp4",
         "unique_id": "6ed6963b-a9d9-404d-9764-11905638bdaa",
